@@ -1,4 +1,4 @@
-Coursera and Rice University have offered course An Introduction to Interactive Programming in Python I by professors Joe Warren, Scott Rixner, John Greiner and Stephen Wong.
+Coursera and Rice University have offered the course "An Introduction to Interactive Programming in Python I" by professors Joe Warren, Scott Rixner, John Greiner and Stephen Wong.
 The course is designed to be an introduction to interactive programming in Python. The focus is on building interactive games such as Pong, Blackjack and Asteroids.
 
 Week 1 programming assignment: Rock-paper-scissors-lizard-Spock
