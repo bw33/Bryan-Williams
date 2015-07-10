@@ -4,8 +4,11 @@ The course is designed to be an introduction to interactive programming in Pytho
 Week 1 programming assignment: Rock-paper-scissors-lizard-Spock
 http://www.codeskulptor.org/#user40_dabZvv33GnaKYgx.py
 
-Week 2 programming assignment: "Guess the number" game
+Week 2 programming assignment: "Guess the number" 
 http://www.codeskulptor.org/#user40_nfHle9LbuPACXfl.py
 
 Week 3 programming assignment: "Stopwatch: The Game"
 http://www.codeskulptor.org/#user40_MkFW8Foukpkw7Ca.py
+
+Week 4 programming assignmetn: "Pong"
+http://www.codeskulptor.org/#user40_jReoUmFQtzzp90m.py
